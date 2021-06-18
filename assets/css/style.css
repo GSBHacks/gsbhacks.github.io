@@ -1149,7 +1149,7 @@ section {
   justify-content: stretch;
 }
 
-.clients .col-lg-3 {
+.clients .col-lg-4 {
   display: flex;
   align-items: center;
   justify-content: center;
