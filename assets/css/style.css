@@ -9,7 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: 'Roboto Mono', monospace;
   color: #444444;
 }
 
@@ -24,7 +25,9 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Nunito", sans-serif;
+  /* font-family: "Nunito", sans-serif; */
+  /* font-family: 'PT Sans', sans-serif; */
+  font-family: 'Roboto Mono', monospace;
 }
 
 /*--------------------------------------------------------------
@@ -123,7 +126,9 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  /* font-family: 'PT Sans', sans-serif; */
+  font-family: 'Roboto Mono', monospace;
   color: #fff;
   font-size: 15px;
   padding: 0 4px;
@@ -389,7 +394,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  /* font-family: 'PT Sans', sans-serif; */
+  font-family: 'Roboto Mono', monospace;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 13px;
@@ -527,7 +534,9 @@ section {
 }
 
 .about .content .btn-learn-more {
-  font-family: "Nunito", sans-serif;
+  /* font-family: "Nunito", sans-serif; */
+  /* font-family: 'PT Sans', sans-serif; */
+  font-family: 'Roboto Mono', monospace;
   font-weight: 600;
   font-size: 14px;
   letter-spacing: 1px;
@@ -679,7 +688,9 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Nunito", sans-serif;
+  /* font-family: "Nunito", sans-serif; */
+  /* font-family: 'PT Sans', sans-serif; */
+  font-family: 'Roboto Mono', monospace;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -890,7 +901,9 @@ section {
   font-size: 42px;
   color: #e43c5c;
   font-weight: 500;
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+  /* font-family: 'PT Sans', sans-serif; */
+  font-family: 'Roboto Mono', monospace;
   margin-bottom: 20px;
 }
 
@@ -943,7 +956,9 @@ section {
   color: #e43c5c;
   font-size: 14px;
   font-weight: 400;
-  font-family: "Nunito", sans-serif;
+  /* font-family: "Nunito", sans-serif; */
+  /* font-family: 'PT Sans', sans-serif; */
+  font-family: 'Roboto Mono', monospace;
   font-weight: 600;
   transition: 0.3s;
 }
@@ -1907,7 +1922,9 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Nunito", sans-serif;
+  /* font-family: "Nunito", sans-serif; */
+  /* font-family: 'PT Sans', sans-serif; */
+  font-family: 'Roboto Mono', monospace;
   color: #777777;
 }
 
