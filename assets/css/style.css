@@ -577,6 +577,7 @@ section {
   z-index: 1;
   text-align: center;
   margin-bottom: 25px;
+  width: 100%;
 }
 
 .services .icon-box::before {
